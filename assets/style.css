@@ -1,0 +1,287 @@
+.content{
+  background-image: url("../assets/images/IPL\ Background\ image.jpg") !important; 
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Keeps the background fixed relative to the viewport */
+  background-repeat: no-repeat; 
+  
+}
+
+.title-text {
+  color: #1f63bb; /* Specify your desired text color */
+}
+
+.comparison-dropdown{
+  width: 20%;
+  background-color: #1f63bb !important;
+}
+
+/* This creates a skinny side bar fixed to the left of the page */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 9rem;
+    padding: 1rem;
+    background-color: rgb(7 14 57);
+    z-index: 1050;
+    transition: width 0.55s ease-in-out;
+  }
+  
+  /* when the user hovers on the sidebar, expand it */
+  .sidebar:hover {
+    width: 17rem;
+  }
+  
+  /* make sure the contents of the navlink don't wrap when navbar collapses */
+  .sidebar .nav-link {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  
+  /* fix the width of the icons */
+  .sidebar .nav-link i {
+    width: rem;
+  }
+  
+  /* hide the navlink labels by default */
+  .sidebar .nav-link span {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.1s ease-in-out;
+  }
+  
+  /* when the sidebar is hovered, reveal the labels */
+  .sidebar:hover .nav-link span {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  /* container for the sidebar header. make sure the contents don't wrap when
+   * the sidebar is collapsed.
+   */
+  .sidebar-header {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    overflow: hidden;
+    white-space: nowrap;
+    margin: 3px auto;
+    
+  }
+  
+  /* position the header relative to the logo and hide by default */
+  .sidebar-header h2 {
+    opacity: 0;
+    margin-left: 0rem;
+    margin-bottom: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  /* reveal the header when the sidebar is toggled */
+  .sidebar:hover .sidebar-header h2 {
+    opacity: 1;
+  }
+  
+  .main_dropdown{
+    width: 30% !important;
+    /* height: 9rem !important; */
+    margin-bottom: 2rem !important;
+  }
+
+  /* position the content relative to the collapsed sidebar */
+  .content {
+    margin-left: 9rem;
+    /* margin-right: 2rem; */
+    padding: 2rem 1rem;
+    
+  }
+
+  .season_dropdown{
+    width: 20% !important;
+    margin-left: 1rem !important;
+  }
+
+  .card-chart {
+    /* background-color: rgba(45, 62, 148, 0.3); */
+    /* background-color: rgba(7,14,57, 0.3); */
+    background-color: rgba(7,14,57, 0.8);
+    border-radius: 8px;
+    margin: 0;
+    margin-left: 0;
+    padding: 0;
+
+  }
+
+  .card-chart-container{
+    padding: 4px 24px 20px 0px;
+    
+  }
+
+  .dropdown_bg{
+    background-color:#1f63bb !important;
+    color: white;
+    box-shadow: none !important;
+    width: 100% !important;
+    display: inline-block;
+    
+  }
+
+
+  /* Custom CSS to change the background color of hovered dropdown items */
+.custom-dropdown .custom-control-input:checked~.custom-control-label::before {
+  background-color: rgb(98, 101, 102);
+}
+
+.custom-dropdown .custom-control-input:focus~.custom-control-label::before {
+  background-color: rgb(215, 232, 238);
+}
+
+  .card-chart-container1{
+    padding: 1px 1px 1px 1px;
+    /* background-color: #378dfc !important; */
+    
+  }
+
+  .layout-page {
+    padding-left: 9rem;
+    padding-right: 4rem;
+    padding-top: 10rem;
+  }
+
+  .fs-sm{
+    font-size: 0.7rem;
+  }
+
+.home_bio{
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(7, 14, 57, 0.8);
+  border-radius: 50px;
+  /* margin: auto; */
+  width: 90%;
+  padding: 20px;
+  margin-left: 75px;
+}
+
+.home_img {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(7, 14, 57, 0.8);
+  border-radius: 50px;
+  margin: auto;
+  width: 90%;
+  padding: 20px;
+}
+
+.image-row {
+  display: flex;
+  justify-content: center;
+}
+
+ .image-container {
+  position: relative;
+  margin: 30px;
+  cursor: pointer;
+}
+
+.data-tooltip {
+  display: none;
+  position: absolute;
+  width: 110%;
+  top: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #1f63bb;
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 15px;
+  z-index: 1;
+  color:white ;
+ 
+}
+
+.image-container:hover .data-tooltip {
+  display: block;
+} 
+
+
+/* 
+.image-container {
+  position: relative;
+  margin: 30px;
+  cursor: pointer;
+  transition: transform 0.6s;
+  transform-style: preserve-3d; 
+
+}
+.data-tooltip {
+  display: none;
+  position: absolute;
+  width: 110%;
+  top: -5px;
+  left: 50%;
+  transform: translateX(-50%) translateZ(50px); 
+  background-color: #1f63bb;
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 15px;
+  z-index: 1;
+  color: white;
+  transition: visibility 0s, opacity 0.5s linear;
+}
+
+.image-container:hover {
+  transform: rotateY(360deg);
+}
+
+.image-container:hover .data-tooltip {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+  transition-delay: 0.3s; 
+} */
+
+
+
+
+.graph-bg{
+  /* background-color: rgb(7, 14, 57, 0.8); */
+  width: 90%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.comparison-dropdown{
+  width: 50%;
+  margin: auto;
+  margin-bottom: 10px;
+  
+}
+
+.Select-control{
+  background-color: #1f63bb !important;
+  color: white !important;
+}
+.Select-value-label{
+  color: white !important;
+}
+.title-text{
+  color: white;
+  text-align: center;
+}
+.table-styling{
+  margin: auto;
+}
+
+.img-logo img{
+  height: 300px;
+  width: 300px;
+  margin-left: 25px;
+}

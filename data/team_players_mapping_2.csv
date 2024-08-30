@@ -1,0 +1,236 @@
+Team Name,Player Name,Role,Price (in crore)
+CSK,Shaik Rasheed,All Rounder,0.2
+CSK,Ajay Mandal,All Rounder,0.2
+CSK,Nishant Sindhu,All Rounder,0.6
+CSK,Rachin Ravindra,All Rounder,1.8
+CSK,Mitchell Santner,All Rounder,1.9
+CSK,Shivam Dube,All Rounder,4
+CSK,Shardul Thakur,All Rounder,4
+CSK,Moeen Ali,All Rounder,8
+CSK,Deepak Chahar,All Rounder,14
+CSK,Daryl Mitchell,All Rounder,14
+CSK,Ravindra Jadeja,All Rounder,16
+CSK,Devon Conway,Batsman,1
+CSK,Ruturaj Gaikwad,Batsman,6
+CSK,Sameer Rizvi,Batsman,8.4
+CSK,Mukesh Choudhary,Bowler,0.2
+CSK,Simarjeet Singh,Bowler,0.2
+CSK,Tushar Deshpande,Bowler,0.2
+CSK,Matheesha Pathirana,Bowler,0.2
+CSK,Maheesh Theekshana,Bowler,0.7
+CSK,Prashant Solanki,Bowler,1.2
+CSK,Rajvardhan Hangargekar,Bowler,1.5
+CSK,Mustafizur Rahman,Bowler,2
+CSK,Avanish Rao Aravelly,Wicket Keeper,0.2
+CSK,Ajinkya Rahane,Wicket Keeper,0.5
+CSK,MS Dhoni,Wicket Keeper,12
+DC,Vicky Ostwal,All Rounder,0.2
+DC,Lalit Yadav,All Rounder,0.65
+DC,Mitchell Marsh,All Rounder,6.5
+DC,Axar Patel,All Rounder,9
+DC,Swastik Chhikara,Batsman,0.2
+DC,Yash Dhull,Batsman,0.5
+DC,Harry Brook,Batsman,4
+DC,David Warner,Batsman,6.25
+DC,Prithvi Shaw,Batsman,7.5
+DC,Rasikh Dar,Bowler,0.2
+DC,Ishant Sharma,Bowler,0.5
+DC,Pravin Dubey,Bowler,0.5
+DC,Lungi Ngidi,Bowler,0.5
+DC,Mukesh Kumar,Bowler,0.55
+DC,Sumeet Kumar,Bowler,1
+DC,Kuldeep Yadav,Bowler,2
+DC,Jhye Richardson,Bowler,5
+DC,Anrich Nortje,Bowler,6.5
+DC,Abhishek Porel,Wicket Keeper,0.2
+DC,Rishabh Pant,Wicket Keeper,16
+DC,Ricky Bhui,Wicket Keeper,0.2
+DC,Tristan Stubbs,Wicket Keeper,0.5
+DC,Shai Hope,Wicket Keeper,0.75
+DC,Kumar Kushagra,Wicket Keeper,7.2
+GT,Azmatullah Omarzai,All Rounder,0.5
+GT,Vijay Shankar,All Rounder,1.4
+GT,Shahrukh Khan,All Rounder,7.4
+GT,Rahul Tewatia,All Rounder,9
+GT,Sai Sudharsan,Batsman,0.2
+GT,Kane Williamson,Batsman,2
+GT,Abhinav Manohar,Batsman,2.6
+GT,David Miller,Batsman,3
+GT,Shubman Gill,Batsman,7
+GT,Manav Suthar,Bowler,0.2
+GT,Noor Ahmad,Bowler,0.3
+GT,Mohit Sharma,Bowler,0.5
+GT,Kartik Tyagi,Bowler,0.6
+GT,Jayant Yadav,Bowler,1.7
+GT,Sushant Mishra,Bowler,2.2
+GT,Sai Kishore,Bowler,3
+GT,Joshua Little,Bowler,4.4
+GT,Umesh Yadav,Bowler,5.8
+GT,Mohammed Shami,Bowler,6.25
+GT,Spencer Johnson,Bowler,10
+GT,Rashid Khan,Bowler,15
+GT,Wriddhiman Saha,Wicket Keeper,1.9
+GT,Robin Minz,Wicket Keeper,3.6
+KKR,Ramandeep Singh,All Rounder,0.2
+KKR,Sakib Hussain,All Rounder,0.2
+KKR,Sunil Narine,All Rounder,6
+KKR,Nitish Rana,All Rounder,8
+KKR,Venkatesh Iyer,All Rounder,8
+KKR,Andre Russell,All Rounder,12
+KKR,Angkrish Raghuvanshi,Batsman,0.2
+KKR,Manish Pandey,Batsman,0.5
+KKR,Rinku Singh,Batsman,0.55
+KKR,Sherfane Rutherford,Batsman,1.5
+KKR,Mujeeb Ur Rahman,Batsman,2
+KKR,Jason Roy,Batsman,2.8
+KKR,Shreyas Iyer,Batsman,12.25
+KKR,Suyash Sharma,Bowler,0.2
+KKR,Harshit Rana,Bowler,0.2
+KKR,Anukul Roy,Bowler,0.2
+KKR,Chetan Sakariya,Bowler,0.5
+KKR,Vaibhav Arora,Bowler,0.6
+KKR,Gus Atkinson,Bowler,1
+KKR,Varun Chakravarthy,Bowler,8
+KKR,Mitchell Starc,Bowler,24.75
+KKR,Rahmanullah Gurbaz,Wicket Keeper,0.5
+KKR,KS Bharat,Wicket Keeper,0.5
+LSG,Prerak Mankad,All Rounder,0.2
+LSG,Arshin Kulkarni,All Rounder,0.2
+LSG,David Willey,All Rounder,2
+LSG,Krunal Pandya,All Rounder,8.25
+LSG,Marcus Stoinis,All Rounder,11
+LSG,Ayush Badoni,Batsman,0.2
+LSG,Ashton Turner,Batsman,1
+LSG,Deepak Hooda,Batsman,5.75
+LSG,Quinton de Kock,Batsman,6.75
+LSG,KL Rahul,Batsman,15
+LSG,Nicholas Pooran,Batsman,16
+LSG,Yudhvir Singh,Bowler,0.2
+LSG,Mayank Yadav,Bowler,0.2
+LSG,Mohsin Khan,Bowler,0.2
+LSG,Mohammed Arshad Khan,Bowler,0.2
+LSG,Yash Thakur,Bowler,0.45
+LSG,Kyle Mayers,Bowler,0.5
+LSG,Naveen-ul-Haq,Bowler,0.5
+LSG,M Siddharth,Bowler,2.4
+LSG,Ravi Bishnoi,Bowler,4
+LSG,Shivam Mavi,Bowler,6.4
+LSG,Mark Wood,Bowler,7.5
+MI,Shams Mulani,All Rounder,0.2
+MI,Naman Dhir,All Rounder,0.2
+MI,Shivalik Sharma,All Rounder,0.2
+MI,Romario Shepherd,All Rounder,0.5
+MI,Mohammad Nabi,All Rounder,1.5
+MI,Gerald Coetzee,All Rounder,5
+MI,Tim David,All Rounder,8.25
+MI,Hardik Pandya,All Rounder,15
+MI,Nehal Wadhera,Batsman,0.2
+MI,Tilak Varma,Batsman,1.7
+MI,Dewald Brevis,Batsman,3
+MI,Suryakumar Yadav,Batsman,8
+MI,Ishan Kishan,Batsman,15.25
+MI,Rohit Sharma,Batsman,16
+MI,Kumar Kartikeya,Bowler,0.2
+MI,Akash Madhwal,Bowler,0.2
+MI,Shreyas Gopal,Bowler,0.2
+MI,Anshul Kamboj,Bowler,0.2
+MI,Arjun Tendulkar,Bowler,0.3
+MI,Piyush Chawla,Bowler,0.5
+MI,Jason Behrendorff,Bowler,0.75
+MI,Dilshan Madushanka,Bowler,4.6
+MI,Nuwan Thushara,Bowler,4.8
+MI,Jasprit Bumrah,Bowler,12
+MI,Vishnu Vinod,Wicket Keeper,0.2
+PBKS,Shashank Singh,All Rounder,0.2
+PBKS,Tanay Thyagarajan,All Rounder,0.2
+PBKS,Sikandar Raza,All Rounder,0.5
+PBKS,Chris Woakes,All Rounder,4.2
+PBKS,Harshal Patel,All Rounder,11.75
+PBKS,Sam Curran,All Rounder,18.5
+PBKS,Jitesh Sharma,Batsman,0.2
+PBKS,Matthew Short,Batsman,0.2
+PBKS,Atharva Taide,Batsman,0.2
+PBKS,Ashutosh Sharma,Batsman,0.2
+PBKS,Vishwanath Pratap Singh,Batsman,0.2
+PBKS,Rishi Dhawan,Batsman,0.55
+PBKS,Prabhsimran Singh,Batsman,0.6
+PBKS,Rilee Rossouw,Batsman,8
+PBKS,Shikhar Dhawan,Batsman,8.25
+PBKS,Liam Livingstone,Batsman,11.5
+PBKS,Gurnoor Singh Brar,Bowler,0.2
+PBKS,Shivam Singh,Bowler,0.2
+PBKS,Vidwath Kaverappa,Bowler,0.2
+PBKS,Prince Choudhary,Bowler,0.2
+PBKS,Nathan Ellis,Bowler,0.75
+PBKS,Harpreet Brar,Bowler,3.8
+PBKS,Arshdeep Singh,Bowler,4
+PBKS,Rahul Chahar,Bowler,5.25
+PBKS,Jonny Bairstow,Wicket Keeper,6.75
+RCB,Manoj Bhandage,All Rounder,0.2
+RCB,Himanshu Sharma,All Rounder,0.2
+RCB,Swapnil Singh,All Rounder,0.2
+RCB,Sourav Chauhan,All Rounder,0.2
+RCB,Suyash Prabhudesai,All Rounder,0.3
+RCB,Tom Curran,All Rounder,1.5
+RCB,Will Jacks,All Rounder,3.2
+RCB,Glenn Maxwell,All Rounder,11
+RCB,Cameron Green,All Rounder,17.5
+RCB,Rajat Patidar,Batsman,0.2
+RCB,Mahipal Lomror,Batsman,0.95
+RCB,Faf du Plessis,Batsman,7
+RCB,Virat Kohli,Batsman,15
+RCB,Vyshak Vijaykumar,Bowler,0.2
+RCB,Akash Deep,Bowler,0.2
+RCB,Karn Sharma,Bowler,0.5
+RCB,Rajan Kumar,Bowler,0.7
+RCB,Reece Topley,Bowler,1.9
+RCB,Lockie Ferguson,Bowler,2
+RCB,Yash Dayal,Bowler,5
+RCB,Mohammed Siraj,Bowler,7
+RCB,Alzarri Joseph,Bowler,11.5
+RCB,Anuj Rawat,Wicket Keeper,3.4
+RCB,Dinesh Karthik,Wicket Keeper,5.5
+RR,Donovan Ferreira,All Rounder,0.5
+RR,Ravichandran Ashwin,All Rounder,5
+RR,Dhruv Jurel,Batsman,0.2
+RR,Riyan Parag,Batsman,3.8
+RR,Yashasvi Jaiswal,Batsman,4
+RR,Shubham Dubey,Batsman,5.8
+RR,Rovman Powell,Batsman,7.4
+RR,Shimron Hetmyer,Batsman,8.5
+RR,Jos Buttler,Batsman,10
+RR,Sanju Samson,Batsman,14
+RR,Kuldeep Sen,Bowler,0.2
+RR,Abid Mushtaq,Bowler,0.2
+RR,Sandeep Sharma,Bowler,0.5
+RR,Nandre Burger,Bowler,0.5
+RR,Adam Zampa,Bowler,1.5
+RR,Navdeep Saini,Bowler,2.6
+RR,Yuzvendra Chahal,Bowler,6.5
+RR,Trent Boult,Bowler,8
+RR,Prasidh Krishna,Bowler,10
+RR,Kunal Rathore,Wicket Keeper,0.2
+RR,Tom Kohler-Cadmore,Wicket Keeper,0.4
+SRH,Sanvir Singh,All Rounder,0.2
+SRH,Jalaj Saxena,All Rounder,0.2
+SRH,Shahbaz Ahmed,All Rounder,2.40
+SRH,Marco Jansen,All Rounder,4.2
+SRH,Abhishek Sharma,All Rounder,6.5
+SRH,Washington Sundar,All Rounder,8.75
+SRH,Anmolpreet Singh,Batsman,0.2
+SRH,Arjun Azad,Batsman,0.2
+SRH,Glenn Phillips,Batsman,1.5
+SRH,Abdul Samad,Batsman,4
+SRH,Heinrich Klaasen,Batsman,5.25
+SRH,Travis Head,Batsman,6.8
+SRH,Mayank Agarwal,Batsman,8.25
+SRH,Rahul Tripathi,Batsman,8.5
+SRH,Samad Fallah,Bowler,0.2
+SRH,Mayank Markande,Bowler,0.5
+SRH,Fazalhaq Farooqi,Bowler,0.5
+SRH,Akash Singh,Bowler,0.75
+SRH,Siddarth Kaul,Bowler,1.5
+SRH,T Natarajan,Bowler,4
+SRH,Umran Malik,Bowler,4
+SRH,Bhuvneshwar Kumar,Bowler,4.2
+SRH,Upendra Yadav,Wicket Keeper,0.25
